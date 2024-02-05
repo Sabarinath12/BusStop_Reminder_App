@@ -1,8 +1,7 @@
-# new_app
+BusStop_Reminder
 
 A new Flutter project.
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
